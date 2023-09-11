@@ -2,5 +2,4 @@
 this is my first readme.md file!
 -->
 this is my first readme.md file!
-
-<img alt="Screenshot of Lab1" src="C://Users//91859//IdeaProjects//COMP3111LEx//COMP3111_Lab1_SS.png" title="COMP3111_Lab1"/>
+![Alt Text](https://github.com/CoderGirl007/COMP3111LEx/blob/master/COMP3111_Lab1_SS.png?raw=true "Title")
